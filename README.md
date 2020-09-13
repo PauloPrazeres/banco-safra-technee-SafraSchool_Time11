@@ -13,12 +13,16 @@ Link:https://galeria.fabricadeaplicativos.com.br/safra_school_2483430
 
 # Data da última atualização: 13/09/2020
 
-Release Notes:
+# Release Notes:
 Criação da interface do aplicativo Safra School
-	1. Possibilidade de acesso aos menus;
-	2. Visualização de Conteúdos e Conquistas;
-	3. Visualização da tela de contato;
-	4. Formulário para envio de E-mail para Assessoria
+
+1. Possibilidade de acesso aos menus;
+
+2. Visualização de Conteúdos e Conquistas;
+
+3. Visualização da tela de contato;
+
+4. Formulário para envio de E-mail para Assessoria
 
 # Usage
 Java; XML
