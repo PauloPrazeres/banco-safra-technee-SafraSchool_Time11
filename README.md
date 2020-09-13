@@ -11,7 +11,8 @@ Também foi desenvolvido o mesmo aplicativo utilizando uma ferramenta "Fabrica d
 Link:https://galeria.fabricadeaplicativos.com.br/safra_school_2483430
 
 
-#Data da última atualização: 13/09/2020
+# Data da última atualização: 13/09/2020
+
 Release Notes:
 Criação da interface do aplicativo Safra School
 	1. Possibilidade de acesso aos menus;
